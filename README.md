@@ -1,5 +1,6 @@
 # suggestion_text_editing_controller_flutter
 An extended text editing controller that supports different inline styles for custom regex.
+
 ###### a text editing controller that can display suggestion text after input, and style input and suggestion ( can be configured to look like a like a code editor )
 ## Getting Started
 
@@ -86,5 +87,5 @@ import'suggestion_text_editing_controller/suggestion_text_editing_controller.dar
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
 # suggestion_text_editing_controller_flutter

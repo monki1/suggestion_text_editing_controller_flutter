@@ -53,11 +53,9 @@ packages:
   flexible_text_editing_controller:
     dependency: "direct main"
     description:
-      path: "."
-      ref: "7a76695"
-      resolved-ref: "7a7669537247e1d63b5d5520920eb6a4c86689a0"
-      url: "https://github.com/monki1/flexible_text_editing_controller_flutter"
-    source: git
+      name: flexible_text_editing_controller
+      url: "https://pub.dartlang.org"
+    source: hosted
     version: "1.0.0"
   flutter:
     dependency: "direct main"
@@ -166,4 +164,4 @@ packages:
     source: hosted
     version: "2.1.3"
 sdks:
-  dart: ">=2.19.0-146.2.beta <3.0.0"
+  dart: ">=2.18.0-146.0.dev <3.0.0"
